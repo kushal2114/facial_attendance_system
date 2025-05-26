@@ -1,1 +1,1 @@
-# facial_attendance_system
+# Facial Attendance System
