@@ -25,7 +25,7 @@
 ### Screenshots
 
 ### Simple UI
-<img src='https://github.com/Patelrahul4884/Attendance-Management-system-using-face-recognition/blob/master/Project%20Snap/1.PNG'>
+<img src='[https://github.com/Patelrahul4884/Attendance-Management-system-using-face-recognition/blob/master/Project%20Snap/1.PNG](https://github.com/kushal2114/facial_attendance_system/blob/8021d267fd2e7fea7ea325617b47d4c9459c315c/Project%20Snap/1.png)'>
 
 ### While taking Image
 ![Screenshot (103)](https://user-images.githubusercontent.com/26384517/86820502-c7f44500-c0a6-11ea-9530-6317ec2059d9.png)
