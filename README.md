@@ -31,4 +31,4 @@
 ![](https://github.com/kushal2114/facial_attendance_system/blob/05de9dfb42e1dc78b1b091b48d74f0768d452023/Project%20Snap/5.png)
 
 ## Attendance in tabular format 
-<img src='https://github.com/Patelrahul4884/Attendance-Management-system-using-face-recognition/blob/master/Project%20Snap/7.PNG'>
+<img src='https://github.com/kushal2114/facial_attendance_system/blob/de2e4e01660e1c0d4c3b44a84889ba7c3ace2200/Project%20Snap/6.png'>
